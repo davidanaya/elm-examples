@@ -1,0 +1,7 @@
+.vscode/
+elm-stuff/
+node_modules/
+$RECYCLE.BIN/
+
+.DS_Store
+Thumbs.db
